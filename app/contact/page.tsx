@@ -4,7 +4,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 
-export default function Navbar() {
+export  function Navbar() {
   return (
     <nav className="bg-[#6fc4d3] px-6 py-3 shadow-md flex flex-col md:flex-row items-center justify-between">
       {/* Logo */}
