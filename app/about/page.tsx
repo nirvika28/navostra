@@ -16,10 +16,9 @@ const Page = () => {
             <p className="font-semibold text-blue-800">At Navostra, we don’t just offer services—we co-create the future of learning.</p>
           </div>
           <div className="flex flex-wrap justify-center items-center gap-4">
-            <img src="/images/1.png" alt="Coding" className="w-40" />
-            <img src="/images/2" alt="Robotics" className="w-40" />
-            <img src="/images/laptop-group.png" alt="Group" className="w-40" />
-            <img src="/images/3.jng" alt="Code" className="w-40" />
+          <img src="/images/about.jpg" alt="Coding" className="w-full max-w-md rounded-xl shadow-lg" />
+
+
           </div>
         </div>
       </section>
@@ -34,12 +33,12 @@ const Page = () => {
             <p>To be a pioneering force in transforming education by integrating innovation, technology, and creativity – shaping a generation equipped with skills, curiosity, and a mindset to lead in the world of tomorrow.</p>
           </div>
           <div className="bg-indigo-900 text-white p-6 rounded-2xl shadow-lg">
-            <img src="/images/mission.jng" alt="Mission" className="mb-4" />
+            <img src="/images/mission.jpg" alt="Mission" className="mb-4" />
             <h3 className="text-2xl font-semibold mb-2">Our Mission</h3>
             <p>To empower educational institutions with next-generation tools and experiential learning environments by delivering cutting-edge STEM solutions, intelligent digital platforms, and impactful creative services – enabling students and educators to thrive in the age of innovation.</p>
           </div>
           <div className="bg-yellow-400 p-6 rounded-2xl shadow-lg">
-            <img src="/images/tech-icons-blocks.png" alt="Tech Icons" className="w-full h-auto" />
+            <img src="/images/tech-icons.jpg" alt="Tech Icons" className="w-full h-auto" />
           </div>
         </div>
       </section>
