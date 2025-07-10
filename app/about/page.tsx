@@ -37,8 +37,8 @@ const Page = () => {
             <h3 className="text-2xl font-semibold mb-2">Our Mission</h3>
             <p>To empower educational institutions with next-generation tools and experiential learning environments by delivering cutting-edge STEM solutions, intelligent digital platforms, and impactful creative services – enabling students and educators to thrive in the age of innovation.</p>
           </div>
-          <div className="bg-yellow-400 p-6 rounded-2xl shadow-lg">
-            <img src="/images/tech-icons.jpg" alt="Tech Icons" className="w-full h-auto" />
+          <div className="bg-yellow-400 p-8 rounded-2xl shadow-lg">
+            <img src="/images/tech-icons.jpg" alt="Tech Icons" className="w-auto h-full" />
           </div>
         </div>
       </section>
