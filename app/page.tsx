@@ -41,7 +41,7 @@ export default function HomePage() {
                     EXPLORE OUR LABS
                   </Button>
                 </Link>
-                <Link href="/partners">
+                <Link href="/contact">
                   <Button
                     variant="outline"
                     className="border-2 border-white text-white hover:bg-white hover:text-blue-600 px-8 py-3 rounded-full text-lg font-semibold bg-transparent"
