@@ -97,9 +97,9 @@ export default function ContactPage() {
 
         {/* Social Media Links */}
         <div className="flex gap-6 text-xl pt-2">
-          <a href="#" className="hover:text-pink-400 transition">📸 Instagram</a>
-          <a href="#" className="hover:text-blue-400 transition">💼 LinkedIn</a>
-          <a href="#" className="hover:text-blue-300 transition">📘 Facebook</a>
+          <a href="https://www.instagram.com/navostraoffical" className="hover:text-pink-400 transition">📸 Instagram</a>
+          <a href="https://www.linkedin.com/company/navostra-edunitive-technologies/" className="hover:text-blue-400 transition">💼 LinkedIn</a>
+          <a href="https://www.facebook.com/profile.php?id=61577076234418&mibextid=ZbWKwL" className="hover:text-blue-300 transition">📘 Facebook</a>
         </div>
       </div>
     </div>
