@@ -12,7 +12,7 @@
         {/* Core Offerings */}
         <div className="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center">
           <img
-            src="/images/core.jpg" // make sure this exists in public/images/
+            src="/images/codelabs.jpg" // make sure this exists in public/images/
             alt="Core Offerings"
             className="w-40 h-40 rounded-full object-cover mb-4"
           />
@@ -34,7 +34,7 @@
         {/* IT Solutions */}
         <div className="bg-white rounded-lg shadow-md p-6 flex flex-col items-center text-center">
           <img
-            src="/images/it.jpg" // make sure this exists
+            src="/images/itsol.jpg" // make sure this exists
             alt="IT Solutions"
             className="w-40 h-40 rounded-full object-cover mb-4"
           />
