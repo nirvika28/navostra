@@ -61,7 +61,7 @@ export default function ContactPage() {
       <div className="md:w-1/2 w-full flex justify-center">
         <div className="rounded-xl overflow-hidden border-4 border-orange-500">
           <img
-            src="/images/images.jpg" // Make sure this image is in public/images/
+            src="/images/connecton.jpeg" // Make sure this image is in public/images/
             alt="Student waving"
             className="w-full h-full object-cover max-w-md"
           />
