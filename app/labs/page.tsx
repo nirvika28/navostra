@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import { FaThumbtack, FaLock, FaCheckCircle, FaBook, FaUsers } from 'react-icons/fa';
 
 export default function ExploreLabsPage() {
   return (
@@ -16,8 +15,8 @@ export default function ExploreLabsPage() {
             delivered with structured curriculum, student kits, and teacher training.
           </p>
           <ul className="mt-3 space-y-1 text-sm">
-            <li><FaThumbtack className="inline mr-1 text-pink-600" /> <strong>Ideal For:</strong> Schools (Grades 6–12), Innovation Hubs, Talent Development</li>
-            <li><FaLock className="inline mr-1 text-red-500" /> <strong>Includes:</strong> Equipment, Curriculum, Projects, Assessment Tools</li>
+            <li>📌 <strong>Ideal For:</strong> Schools (Grades 6–12), Innovation Hubs, Talent Development</li>
+            <li>🔐 <strong>Includes:</strong> Equipment, Curriculum, Projects, Assessment Tools</li>
           </ul>
         </div>
         <Image src="/images/robotics-lab.jpg" alt="Robotics Lab" width={500} height={300} className="rounded-lg" />
@@ -29,8 +28,8 @@ export default function ExploreLabsPage() {
             We assist schools in setting up ATL Labs <strong>under the NITI Aayog framework</strong> — from infrastructure planning and procurement to grant support, training, and mentoring.
           </p>
           <ul className="mt-3 space-y-1 text-sm">
-            <li><FaCheckCircle className="inline mr-1 text-blue-500" /> <strong>Services:</strong> ATL Proposal Support, Equipment, Training, Docs</li>
-            <li><FaThumbtack className="inline mr-1 text-purple-500" /> <strong>Add-on:</strong> ATL Innovation Challenges & Bootcamps</li>
+            <li>✅ <strong>Services:</strong> ATL Proposal Support, Equipment, Training, Docs</li>
+            <li>📌 <strong>Add-on:</strong> ATL Innovation Challenges & Bootcamps</li>
           </ul>
         </div>
       </div>
@@ -44,8 +43,8 @@ export default function ExploreLabsPage() {
             and real-world problem-solving using interactive models.
           </p>
           <ul className="mt-3 space-y-1 text-sm">
-            <li><FaThumbtack className="inline mr-1 text-pink-600" /> <strong>Features:</strong> Thematic Zones, Exhibits, IoT/AI Showcases</li>
-            <li><FaUsers className="inline mr-1 text-blue-600" /> <strong>Best For:</strong> District Science Parks, Schools, NGOs</li>
+            <li>📌 <strong>Features:</strong> Thematic Zones, Exhibits, IoT/AI Showcases</li>
+            <li>👥 <strong>Best For:</strong> District Science Parks, Schools, NGOs</li>
           </ul>
         </div>
         <Image src="/images/science-centre.jpg" alt="Science Centre" width={500} height={300} className="rounded-lg" />
@@ -57,8 +56,8 @@ export default function ExploreLabsPage() {
             Workshops to develop <strong>coding, AI, design thinking, and entrepreneurship</strong> among students and educators.
           </p>
           <ul className="mt-3 space-y-1 text-sm">
-            <li><FaCheckCircle className="inline mr-1 text-green-600" /> <strong>Delivery:</strong> On-site or Online</li>
-            <li><FaUsers className="inline mr-1 text-pink-600" /> <strong>Target Group:</strong> Grades 6–12, Teachers, NGOs, CSR Programs</li>
+            <li>✅ <strong>Delivery:</strong> On-site or Online</li>
+            <li>👥 <strong>Target Group:</strong> Grades 6–12, Teachers, NGOs, CSR Programs</li>
           </ul>
         </div>
       </div>
@@ -71,8 +70,8 @@ export default function ExploreLabsPage() {
             We provide extensive <strong>teacher & student training</strong>, lab in-charge orientation, and ongoing support.
           </p>
           <ul className="mt-3 space-y-1 text-sm">
-            <li><FaThumbtack className="inline mr-1 text-rose-600" /> <strong>Includes:</strong> Workshops, Assessment Tools, Aids</li>
-            <li><FaBook className="inline mr-1 text-indigo-600" /> <strong>Modes:</strong> Onsite + Digital</li>
+            <li>📌 <strong>Includes:</strong> Workshops, Assessment Tools, Aids</li>
+            <li>📚 <strong>Modes:</strong> Onsite + Digital</li>
           </ul>
         </div>
         <Image src="/images/training.jpg" alt="Training" width={500} height={300} className="rounded-lg" />
@@ -84,8 +83,8 @@ export default function ExploreLabsPage() {
             Our team builds <strong>NEP-aligned curricula</strong>, DIY guides, and multimedia learning content.
           </p>
           <ul className="mt-3 space-y-1 text-sm">
-            <li><FaCheckCircle className="inline mr-1 text-emerald-500" /> <strong>Subjects:</strong> Robotics, AI, STEM, Coding, Tinkering</li>
-            <li><FaBook className="inline mr-1 text-orange-500" /> <strong>Formats:</strong> Print, Digital, Simulation, Video</li>
+            <li>✅ <strong>Subjects:</strong> Robotics, AI, STEM, Coding, Tinkering</li>
+            <li>📘 <strong>Formats:</strong> Print, Digital, Simulation, Video</li>
           </ul>
         </div>
       </div>
