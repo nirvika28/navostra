@@ -31,7 +31,7 @@ export default function ITSolutionsPage() {
         {/* AI-Integrated EdTech */}
         <div className="flex bg-indigo-900 text-white rounded-xl overflow-hidden shadow-md">
           <div className="w-1/3 p-4">
-            <Image src="/images/ai-edtech.png" alt="AI EdTech" width={100} height={100} className="mx-auto" />
+            <Image src="/images/ai.png" alt="AI EdTech" width={100} height={100} className="mx-auto" />
           </div>
           <div className="w-2/3 p-4 text-left">
             <h2 className="font-bold text-lg mb-2">AI-Integrated EdTech Platforms</h2>
@@ -42,7 +42,7 @@ export default function ITSolutionsPage() {
         {/* Custom Web Development */}
         <div className="flex bg-indigo-900 text-white rounded-xl overflow-hidden shadow-md">
           <div className="w-1/3 p-4">
-            <Image src="/images/web-dev.png" alt="Web Dev" width={100} height={100} className="mx-auto" />
+            <Image src="/images/webdev.png" alt="Web Dev" width={100} height={100} className="mx-auto" />
           </div>
           <div className="w-2/3 p-4 text-left">
             <h2 className="font-bold text-lg mb-2">Custom Web Development</h2>
@@ -53,7 +53,7 @@ export default function ITSolutionsPage() {
         {/* ERP & CRM */}
         <div className="flex bg-indigo-900 text-white rounded-xl overflow-hidden shadow-md">
           <div className="w-1/3 p-4">
-            <Image src="/images/erp-crm.png" alt="ERP CRM" width={100} height={100} className="mx-auto" />
+            <Image src="/images/erp.png" alt="ERP CRM" width={100} height={100} className="mx-auto" />
           </div>
           <div className="w-2/3 p-4 text-left">
             <h2 className="font-bold text-lg mb-2">ERP & CRM Systems</h2>
@@ -64,7 +64,7 @@ export default function ITSolutionsPage() {
         {/* Custom App Development */}
         <div className="flex bg-indigo-900 text-white rounded-xl overflow-hidden shadow-md">
           <div className="w-1/3 p-4">
-            <Image src="/images/app-dev.png" alt="App Dev" width={100} height={100} className="mx-auto" />
+            <Image src="/images/appdev.png" alt="App Dev" width={100} height={100} className="mx-auto" />
           </div>
           <div className="w-2/3 p-4 text-left">
             <h2 className="font-bold text-lg mb-2">Custom App Development</h2>
